@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009577821573",
+    "project_id": "smartlife-master",
+    "storage_bucket": "smartlife-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009577821573:android:188176b640fb68c0c6b0ec",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009577821573-4m04909bgimfragpins2sks6svveqske.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHmiKZHjjiJ-bzJPygjgsBlF4uesKRY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009577821573-4m04909bgimfragpins2sks6svveqske.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
