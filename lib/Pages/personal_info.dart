@@ -228,6 +228,19 @@ class _personal_infoState extends State<personal_info> {
                       ),
                       (route) => false)
                 },
+                child: const Text('Calcular outro IMC'),
+              ),
+            ),
+            Center(
+              child: TextButton(
+                onPressed: () => {
+                  signOut,
+                  Navigator.of(context).pushAndRemoveUntil(
+                      MaterialPageRoute(
+                        builder: (context) => LoginPage(),
+                      ),
+                      (route) => false)
+                },
                 child: const Text('Logout'),
               ),
             ),

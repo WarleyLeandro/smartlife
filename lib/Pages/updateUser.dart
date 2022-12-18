@@ -94,6 +94,7 @@ class _updateUserState extends State<updateUser> {
                   decoration: BoxDecoration(),
                   child: TextField(
                     controller: nameInput,
+                    keyboardType: TextInputType.name,
                     decoration: const InputDecoration(
                       hintText: 'Nome',
                     ),
@@ -103,6 +104,7 @@ class _updateUserState extends State<updateUser> {
                   decoration: BoxDecoration(),
                   child: TextField(
                     controller: ageInput,
+                    keyboardType: TextInputType.number,
                     decoration: InputDecoration(
                       hintText: 'Idade',
                     ),
@@ -121,6 +123,7 @@ class _updateUserState extends State<updateUser> {
                   decoration: BoxDecoration(),
                   child: TextField(
                     controller: heightInput,
+                    keyboardType: TextInputType.number,
                     decoration: const InputDecoration(
                       hintText: 'Altura',
                     ),
@@ -130,6 +133,7 @@ class _updateUserState extends State<updateUser> {
                   decoration: BoxDecoration(),
                   child: TextField(
                     controller: weightInput,
+                    keyboardType: TextInputType.number,
                     decoration: const InputDecoration(
                       hintText: 'Peso',
                     ),
