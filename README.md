@@ -19,11 +19,13 @@ Exibir dietas prontas, com informações sobre calorias, tempo de preparo e inst
 - Realm
 - Android Studio e VScode
 
-## Resultados e Arquitetura
+## Arquitetura
 
 ![TechnologyTool](https://user-images.githubusercontent.com/61791519/208327500-580e87cd-6ba9-41db-ad14-51037fc3e0e5.PNG)
 
 ![image](https://user-images.githubusercontent.com/49173787/207754562-2f1b6f69-9d9c-4f20-a88e-b6e670a663e3.png)
+
+## Telas
 
 ![RecipeIngredientsPagre](https://user-images.githubusercontent.com/61791519/208327536-02825a88-1f4f-45b9-8966-909df8bf8b8f.PNG)
 
