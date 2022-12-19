@@ -10,6 +10,7 @@ import '../schemas/user_schema.dart';
 import '../services/user_service.dart';
 import 'constants.dart';
 import 'updateUser.dart';
+import 'imc_calculator_page.dart';
 
 class personal_info extends StatefulWidget {
   @override
@@ -224,7 +225,7 @@ class _personal_infoState extends State<personal_info> {
                   signOut,
                   Navigator.of(context).pushAndRemoveUntil(
                       MaterialPageRoute(
-                        builder: (context) => LoginPage(),
+                        builder: (context) => imcCalculator(),
                       ),
                       (route) => false)
                 },
