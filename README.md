@@ -27,10 +27,16 @@ Exibir dietas prontas, com informações sobre calorias, tempo de preparo e inst
 
 ## Telas
 
+![LoginPage](https://user-images.githubusercontent.com/61791519/208328055-9f7e336f-b8a4-40f3-9c04-978315af8b16.PNG)
+
+![HomePage](https://user-images.githubusercontent.com/61791519/208328039-c1511bf7-dcb3-429c-89ed-dc81758bfd03.PNG)
+
 ![RecipeIngredientsPagre](https://user-images.githubusercontent.com/61791519/208327536-02825a88-1f4f-45b9-8966-909df8bf8b8f.PNG)
 
 ![CalcularImcButton](https://user-images.githubusercontent.com/61791519/208327543-627a7466-c47b-4068-9acf-866809039e5a.PNG)
 
 ![ImcCalculatorPage](https://user-images.githubusercontent.com/61791519/208327548-db6b2806-f5ae-4546-b1ef-122947ca4828.PNG)
+
+
 
 
