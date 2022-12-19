@@ -151,13 +151,7 @@ class _personal_infoState extends State<personal_info> {
                         fontSize: 20,
                         color: Colors.grey),
                   ),
-                  // Text(
-                  //   'Calorias diárias: ${myData[0].calories} kcals',
-                  //   style: TextStyle(
-                  //       fontWeight: FontWeight.w600,
-                  //       fontSize: 20,
-                  //       color: Colors.grey),
-                  // ),
+                 
                   Text(
                     'Caloria diária ideal: ${respCalories.toStringAsPrecision(5)} kcals',
                     style: TextStyle(
